@@ -1,5 +1,3 @@
-### Hi there! 👋
-
 My name is Ethan, and I'm a Computer Science student at Western Governors University (WGU). I'm passionate about software development and always eager to learn and take on new challenges. Here are some cool things I've made:
 
 - 📝 [Article](https://github.com/Morbid1134/Article): A Python tool that generates transcripts and articles from video or audio files using AI models.
